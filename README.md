@@ -1,3 +1,3 @@
 # hello-world
 Not Sure
-Starting form scratch in the hope of coding for Vector.
+Starting from scratch in the hope of coding for Vector.
